@@ -1,4 +1,4 @@
--- Редактирование таблицы countries.
+-- Редактирование таблицы countries
 ALTER TABLE `geodata`.`_countries` 
 DROP COLUMN `title_cz`,
 DROP COLUMN `title_lv`,
